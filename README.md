@@ -7,11 +7,11 @@ ___
 
 ## 5 Repositórios de Python mais famosos no Github:
 
-* [1] github.com/donnemartin/system-design-primer
-* [2] github.com/TheAlgorithms/Python
-* [3] github.com/vinta/awesome-python
-* [4] github.com/jackfrued/Python-100-Days
-* [5] github.com/ytdl-org/youtube-dl
+1. github.com/donnemartin/system-design-primer
+2. github.com/TheAlgorithms/Python
+3. github.com/vinta/awesome-python
+4. github.com/jackfrued/Python-100-Days
+5. github.com/ytdl-org/youtube-dl
 
 ## Fonte 
 https://www.instagram.com/mateuss_ioo/
