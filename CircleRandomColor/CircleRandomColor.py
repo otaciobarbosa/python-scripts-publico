@@ -1,5 +1,3 @@
-# https://www.instagram.com/apran_khunger/
-# Circle Random Color
 import turtle
 import colorsys
 
