@@ -10,5 +10,5 @@ pip install pyttsx3
 
 pip install PyPDF2
 
-## Fonte 
+## Fonte:
 https://inprogrammer.com/convert-any-ebook-into-audiobook-12-lines-of-python/
